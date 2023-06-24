@@ -32,9 +32,10 @@ aplicatia sa se conecteze la robot
 
 
 Pasii pentru a pune masina sa urmareasca linia:
-  1. Se incarca codul pe placa Arduino prin IDE din fisierul "Line_following_code.ino"<br />
-  2. Se pune masina pe traseul stabilit cu senzorul de reflectivitate deasupra liniei<br />
-  3. Se misca senzorul deasupra liniei in stanga si in dreapta pentru a trece pe deasupra liniei<br />
+  1. Se scot pinii de Rx si Tx de la modulul Bluetooth<br />
+  2. Se incarca codul pe placa Arduino prin IDE din fisierul "Line_following_code.ino"<br />
+  3. Se pune masina pe traseul stabilit cu senzorul de reflectivitate deasupra liniei<br />
+  4. Se misca senzorul deasupra liniei in stanga si in dreapta pentru a trece pe deasupra liniei<br />
 fiecare senzor de pe banda de senzori
   
      
