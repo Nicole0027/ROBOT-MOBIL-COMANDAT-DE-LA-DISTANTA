@@ -7,7 +7,7 @@ Configurare aplicație Android:<br />
      ````
      git clone https://github.com/Nicole0027/ROBOT-MOBIL-COMANDAT-DE-LA-DISTANTA.git
       ````
-  4. Se deschide folder-ul cu proiectul prin Android Studio
+  4. Se deschide folder-ul "CAR" cu proiectul prin Android Studio
   5. Este necesar un emulator instalat sau un telefon cu android
   6. Se apasa "Build" si "Run"
 
